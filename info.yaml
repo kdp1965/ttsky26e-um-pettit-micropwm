@@ -1,12 +1,12 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481793265415286785
-  title:        "tt-um-pettit-micropwm"      # Project title
+  title:        "tt_um_pettit_micropwm"      # Project title
   author:       "Ken Pettit"      # Your name
   discord:      "busy_courgette_50064"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Single channel PWM with 2 outputs"
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     10000000      # Clock frequency in Hz (or 0 if not applicable)
+  clock_hz:     50000000      # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "micro"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
