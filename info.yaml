@@ -17,7 +17,7 @@ pinout:
   # Inputs
   ui[0]: "DATA"
   ui[1]: "STROBE"
-  ui[2]: "ENABLE"
+  ui[2]: "DISABLE"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
