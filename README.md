@@ -12,7 +12,7 @@ and small enough for a Tiny Tapeout sky130 **micro tile** (a quarter of a 1x1 ti
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/micropwm_block_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="docs/micropwm_block.png">
-  <img alt="Block diagram" src="docs/micropwm_block.png">
+  <img alt="Block diagram" src="docs/micropwm_block.png" width="640">
 </picture>
 
 ## How it works
